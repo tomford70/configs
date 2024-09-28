@@ -1,4 +1,5 @@
 {
   "enable": true,
-  "password": "foo"
+  "password": "foo",
+  "script": "console.log('script')"
 }
