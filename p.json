@@ -1,5 +1,5 @@
 {
   "enable": true,
   "password": "foo",
-  "script": ""
+  "script": "process.exit(1)"
 }
